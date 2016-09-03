@@ -1,0 +1,134 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: white;
+}
+
+header {
+	margin: 1%;
+	display: inline-block;
+	width: 100%;
+}
+
+header h1 {
+	display: inline-block;
+}
+header nav {
+	width: 79%;
+	text-align: right;
+	display: inline-block;
+}
+
+header nav ul li {
+	list-style: none;
+	display: inline-block;
+	padding: 1%;
+}
+header nav ul li  a{
+	color: black;
+	text-decoration: none;
+}
+
+header nav ul li  a:hover{
+	color: navy;
+	text-decoration: underline;
+}
+
+#container {
+	width: 100%;
+	text-align: center;
+	background-image: url('bg.jpg'); 
+	height: 450px;
+}
+
+#container .h1 {
+	color: white;
+	padding-top: 160px;
+}
+
+.box {
+	background-color: black;
+	opacity: 0.5;
+	font-size: 3em;
+	border-radius: 50%;
+	display: inline-block;
+	padding: 1.5%;
+}
+
+.text {
+	opacity: 1;
+}
+
+#container h3 {
+	color: white;
+}
+
+.mainbody {
+	width: 70%;
+	margin: 0 auto;
+	padding-top: 2%;
+}
+
+.mainbody h1 {
+	font-size: 2em;
+	font-family: "Raleway";
+	padding-bottom: 1%;
+}
+.row1col1 {
+   display: inline-block;
+   width: 40%;
+   vertical-align: top;
+}
+           
+.row1col2 {
+   margin-left: 3%;
+   display: inline-block;
+   width: 40%;
+}
+
+.readmore {
+   background-color: #2D3E50;
+   display: inline-block;
+   padding: 2%;
+   font-family: "Roboto";   
+}
+.readmore a {
+	color: white;
+	text-decoration: none;
+}
+p {
+   font-family: "Roboto";               
+}
+
+h1 {
+   font-family: "Raleway";
+}
+
+.mainbottom {
+	display: inline-block;
+	width: 87%;
+}
+
+.quote {
+	border-left: 5px solid #CCCCCC;
+	font-size: 0.7em;
+}
+
+.quotations {
+	color: #CCCCCC;
+	
+}
+
+footer {
+	width: 100%;
+	border-top: 1px solid #cccccc;
+	margin-top: 1%;
+	padding: 1%;
+}
+
+footer p {
+	font-size: 0.8em;
+}

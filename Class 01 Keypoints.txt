@@ -1,0 +1,9 @@
+SLACK - meanstackbatch3
+CodeBlimp
+https://fonts.google.com/
+herokuapp.com - for node.js coding (Server)
+https://www.codeblimp.com/DementedDominantSlangBallad (Codeblimp's Site)
+MEAN = Mango Express Angular Node
+MERN = Mongo Express React Node
+
+pakiprogrammers.slack

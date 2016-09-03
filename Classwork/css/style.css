@@ -1,0 +1,50 @@
+.container{
+    clear: both;
+}
+
+.row{
+    background-color:green;
+}
+
+.row1col1{
+    background-color: yellow;
+    display: inline-block;
+}
+
+.row1col2{
+    background-color: blue;
+    display: inline-block;
+    color: #fff;
+    margin-left: 30%;
+}
+
+h1{
+    padding-left: 100px;
+    font-family: 'roboto';
+}
+
+nav ul li{
+    list-style:none;
+    display: inline-block;
+    padding-right: 8px;
+}
+
+nav{
+    float: right;
+}
+
+a{
+    text-decoration: none;
+    color: #000;
+}
+
+a:hover{
+    color:#e3e3e3;
+}
+
+button{
+    background-color:#000;
+    color: #fff;
+    border: 0;
+    padding: 5px 5px;
+}
